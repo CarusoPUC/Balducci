@@ -250,8 +250,170 @@ header a:hover{
     background-size: cover;
 }
 
+.img.banoffee{
+    background-image: url(Fotos/Banoffee.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.cacaunutella{
+    background-image: url(Fotos/Cacau_Com_Nutella.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.chdocedeleite{
+    background-image: url(Fotos/Cheesecake_Doce_De_Leite.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.chfrutasvermelhas{
+    background-image: url(Fotos/Cheesecake_Frutas_Vermelhas.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.chocmeioamargo{
+    background-image: url(Fotos/Chocolate_Meio_Amargo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.confete{
+    background-image: url(Fotos/Confete.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.ferrerorocher{
+    background-image: url(Fotos/Ferrero_Rocher.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.limao{
+    background-image: url(Fotos/Limão.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.limaochoc{
+    background-image: url(Fotos/Limão_Com_Chocolate.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.maracujachoc{
+    background-image: url(Fotos/Maracujá_Com_Chocolate.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.uvamorango{
+    background-image: url(Fotos/Meio_Uva_E_Morango.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.morango{
+    background-image: url(Fotos/Morango.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.ninho{
+    background-image: url(Fotos/Ninho.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.ninhonutella{
+    background-image: url(Fotos/Ninho_Com_Nutella.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.crocante{
+    background-image: url(Fotos/Pé_De_Moleque.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.pistache{
+    background-image: url(Fotos/Pistache.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.prestigio{
+    background-image: url(Fotos/Prestígio.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.limaosuica{
+    background-image: url(Fotos/Suiça_De_Limão.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.maracujasuica{
+    background-image: url(Fotos/Ferrero_Rocher.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.tiramissu{
+    background-image: url(Fotos/Tiramissu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.uva{
+    background-image: url(Fotos/Uva.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.maca{
+    background-image: url(Fotos/Maçã.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.ninhofrutasvermelhas{
+    background-image: url(Fotos/Ninho_Frutas_Vermelhas.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.entremet{
+    background-image: url(Fotos/Entremet.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.chgoiabada{
+    background-image: url(Fotos/Cheesecake_Goiabada.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.salgada{
+    background-image: url(Fotos/Salgada.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img.indisponivel{
+    background-image: url(Fotos/Indisponivel.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .img.f1{
-    background-image: url(proxy.png);
+    background-image: url(Fotos/Banoffee.png);
     background-repeat: no-repeat;
     background-size: cover;
 }   
